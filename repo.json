@@ -19,7 +19,7 @@
 		"DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-		"Changelog": "0.0.1.5\n<InsertChanges>"
+		"Changelog": "0.0.1.5\n- Added Ability to Import and Export to Clipboard\n- The command /customize will now close the window if its open"
 	},
 	{
 		"Author": "XIV Tools",
