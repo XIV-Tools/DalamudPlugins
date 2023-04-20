@@ -19,7 +19,7 @@
 		"DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
 		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-		"Changelog": "0.0.1.5\n- Bone Rotation and Position is here! You can now modify all of these things via the ingame editor. Note that these are advanced features that may cause unexpected results, dont say you have not been warned. Additionaly they will be disabled once you enable Posing tools inside GPose.\n- Reworked the Design, it now scales correctly on High Res and Higher Font scales.\n- Added Ability to Import and Export to Clipboard.\n- The command /customize will now close the window if its open.\n- Added a new command: /customize-apply [character name],[scale name]\n- Fixed a bug that caused the Selection Ring to appear on yourself instead of your target."
+		"Changelog": "0.0.1.5\n- Bone Rotation and Position is here! You can now modify all of these things via the ingame editor. Note that these are advanced features that may cause unexpected results, dont say you have not been warned. Additionaly they will be disabled once you enable Posing tools inside GPose. Thanks Alexsey!\n- Reworked the Design, it now scales correctly on High Res and Higher Font scales.\n- Added Ability to Import and Export to Clipboard.\n- The command /customize will now close the window if its open.\n- Added a new command: /customize-apply [character name],[scale name]. Thanks Caio!\n- Fixed a bug that caused the Selection Ring to appear on yourself instead of your target."
 	},
 	{
 		"Author": "XIV Tools",
